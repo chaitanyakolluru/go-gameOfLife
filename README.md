@@ -18,6 +18,7 @@ as if by overpopulation.
 becomes a live cell, as if by reproduction.
 
 
+```
 1 0 1
 0 1 0
 1 0 1
@@ -33,3 +34,4 @@ becomes a live cell, as if by reproduction.
 0 1 0
 1 0 1
 0 1 0
+```
